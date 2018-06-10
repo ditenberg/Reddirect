@@ -1,6 +1,4 @@
 # Reddirect
-Lightweight Chrome extension that automatically redirects to old.reddit.com
-
 Are you already sick and tired of the new Reddit redesign and constantly clicking on the "Go to Old Reddit" banner? Join the club! This little extension automatically redirects you to old.reddit.com so you can enjoy the original design that you know and love. Just navigate to any reddit.com/* URL and enjoy this "new" old experience!
 
 # How to setup Reddirect
